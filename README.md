@@ -1,4 +1,4 @@
-# basic-visualizer
+# basic_visualizer
 A simple frequency bar visualizer for audio in Processing.
 
 ![Screenshot](screenshot.png)
